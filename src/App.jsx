@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/footer";
 import Scrollprogress from "./components/Scrollprogress";
 import Backtotop from "./components/Backtotop";
-import WhatsApp from "./components/Whatsapp.jsx"
+import WhatsApp from "./components/Whatsapp.jsx";
 function App() {
   return (
     <>
