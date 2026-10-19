@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import school from "../assets/school.jpg";
+import school from "../assets/School.jpg";
 import library from "../assets/library.jpg";
 import sports from "../assets/sports.jpg";
 import lab from "../assets/lab.jpg";
