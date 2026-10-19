@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import school from "../assets/school.jpg";
+import School from "../assets/school.jpg";
 
 function Hero() {
   return (
